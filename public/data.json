@@ -1,0 +1,44 @@
+[
+    {
+      "id": "6428336b3ad3270b692bfd6b",
+      "authorName": "Mr. Raju",
+      "blogTitle":"How to get your first job as a self-taught programmer",
+      "authorImage": "https://images.pexels.com/photos/5378700/pexels-photo-5378700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "blogCoverImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtU-NlgHlCUAYKG-7nQcj5PBWSLZBPau_dQ&usqp=CAU",
+      "readTime":"5 minute read", 
+      "publishDate":"March 15 (15 days ago)"
+       
+      
+      
+    },
+    {
+      "id": "6428336b98a53901a42b3a24",
+      
+    "authorName": "Brandy Christensen",
+      "blogTitle":"How to get your first job as a self-taught programmer",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU",
+      "blogCoverImage":"https://img.freepik.com/premium-vector/software-development-illustration_73903-337.jpg",
+      "readTime":"10 minute read", 
+      "publishDate":"March 15 (15 days ago)"
+    },
+    {
+      "id": "6428336bd0bed9d2dc1a426e",
+      
+      "authorName": "Riggs Simon",
+      "blogTitle":"How to get your first job as a self-taught programmer",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7pOXXhjRfb6yCBIduBGSCA-tUrwpWY9CGQ&usqp=CAU",
+      "blogCoverImage":"https://dynamic.brandcrowd.com/template/preview/design/64c3bae7-8b76-465e-9b9f-bd03dcd7ba91?v=4&designTemplateVersion=1&size=design-preview-wide-1x",
+      "readTime":"12 minute read", 
+      "publishDate":"March 15 (15 days ago)"
+    },
+    {
+      "id": "6428336bca8035c580e8589a",
+      
+      "authorName": "Estella Blair",
+      "blogTitle":"How to get your first job as a self-taught programmer",
+      "authorImage": "https://www.workitdaily.com/media-library/man-updates-his-linkedin-profile.jpg?id=27003617&width=2000&height=1500&quality=85&coordinates=0%2C0%2C72%2C0",
+      "blogCoverImage":"https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+      "readTime":"14 minute read", 
+      "publishDate":"March 15 (15 days ago)"
+    } 
+  ]
