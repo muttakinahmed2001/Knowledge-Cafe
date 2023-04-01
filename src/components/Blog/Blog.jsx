@@ -4,7 +4,8 @@ import icon from '../../images/icons8-bookmark-outline.svg'
 
 import './Blog.css'
 const Blog = (props) => {
-    const { authorName, id, blogTitle, authorImage, blogCoverImage, publishDate,readTime } = props.blog
+    const { authorName, id, blogTitle, authorImage, blogCoverImage, publishDate,readTime, } = props.blog
+   const handlerAddedToButton=props.handlerAddedToButton;
     return (
         <div className='blog'>
             <img src={blogCoverImage} alt="" />
@@ -19,7 +20,7 @@ const Blog = (props) => {
 
 
                 </div>
-                <div ><p>{readTime}</p> <button className='bookmark' ><img src={icon} alt="" /></button></div>
+                <div ><p>{readTime}</p> <button className='bookmark' onClick={()=>{handlerAddedToButton()}} ><img src={icon} alt="" /></button></div>
                  
             </div>
 

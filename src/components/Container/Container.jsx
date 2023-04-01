@@ -10,13 +10,16 @@ const Container = () => {
         .then(res=>res.json())
         .then(data=> setBlogs(data))
     },[])
+    const handlerAddedToButton =(blog)=>{
+        console.log('hanler')
+    }
     return (
         <div>
             <div className='container'>
                 
                 <div className='blogs'> 
 {
-    blogs.map(blog => <Blog blog={blog} key={blog.id}></Blog>)
+    blogs.map(blog => <Blog blog={blog} key={blog.id} handlerAddedToButton={handlerAddedToButton} ></Blog>)
 }
                     <p>blogs:{blogs.length}</p>
                      </div>
